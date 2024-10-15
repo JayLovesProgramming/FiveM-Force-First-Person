@@ -1,7 +1,4 @@
-Join my discord and check my Tebex out
+# Stable - optimization needed
 
-https://jays-store.tebex.io/
-
-https://dsc.gg/jays-scripts
-
-Put in any client file. Maybe smallresources would be a good place for it
+Place in any client file
+``qb-smallresources > client for example``
